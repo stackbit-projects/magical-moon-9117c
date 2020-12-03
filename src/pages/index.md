@@ -85,7 +85,7 @@ sections:
     type: section_posts
     background: gray
     title: Latest Posts
-meta_title: 'Designe '
+meta_title: Designe Template
 meta_description: The preview of the Azimuth theme
 template: landing
 ---
