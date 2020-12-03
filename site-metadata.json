@@ -44,7 +44,8 @@
             },
             {
                 "label": "Sign Up",
-                "url": "signup"
+                "url": "signup",
+                "primary": true
             },
             {
                 "label": "Contact",
