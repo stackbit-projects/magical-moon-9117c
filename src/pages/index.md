@@ -86,6 +86,6 @@ sections:
     background: gray
     title: Latest Posts
 meta_title: Designe Template
-meta_description: The preview of the Azimuth theme
+meta_description: D
 template: landing
 ---
