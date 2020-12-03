@@ -86,6 +86,6 @@ sections:
     background: gray
     title: Latest Posts
 meta_title: Designe Template
-meta_description: Amazing
+meta_description: ''
 template: landing
 ---
