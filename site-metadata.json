@@ -45,7 +45,8 @@
             {
                 "label": "Sign Up",
                 "url": "signup",
-                "primary": true
+                "primary": true,
+                "new_window": true
             },
             {
                 "label": "Contact",
