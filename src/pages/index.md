@@ -3,7 +3,7 @@ title: Android Mobile Apps
 sections:
   - section_id: hero
     type: section_hero
-    image: images/hero.png
+    image: images/5.png
     image_alt: App preview
     title: I Created Native Android App and UI kit Designe Template
     content: ''
