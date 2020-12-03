@@ -35,7 +35,8 @@
         "nav_links": [
             {
                 "label": "About Us",
-                "url": "/about"
+                "url": "/about",
+                "primary": true
             },
             {
                 "label": "Blog",
