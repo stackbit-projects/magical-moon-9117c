@@ -86,6 +86,6 @@ sections:
     background: gray
     title: Latest Posts
 meta_title: Designe Template
-meta_description: High quality
+meta_description: High quality Designe
 template: landing
 ---
