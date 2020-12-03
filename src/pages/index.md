@@ -3,7 +3,8 @@ title: Android Mobile Apps
 sections:
   - section_id: Desi
     type: section_hero
-    image: images/11deb867551631.5f5f6787be9f3.jpg
+    image: >-
+      images/687474703a2f2f76696176697765622e696e2f656e7661746f2f63632f68645f77616c6c70617065725f64656d6f2f68645f77616c6c70617065725f6c616e64696e67706167652e6a7067.jpeg
     image_alt: App preview
     title: I Created Native Android App and UI kit Designe Template
     content: ''
