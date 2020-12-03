@@ -1,7 +1,7 @@
 ---
 title: Android Mobile Apps
 sections:
-  - section_id: hero
+  - section_id: ''
     type: section_hero
     image: images/11deb867551631.5f5f6787be9f3.jpg
     image_alt: App preview
