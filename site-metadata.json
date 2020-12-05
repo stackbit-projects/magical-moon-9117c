@@ -40,7 +40,8 @@
             },
             {
                 "label": "Blog",
-                "url": "/blog.Fx-Studiox"
+                "url": "/blog.Fx-Studiox",
+                "primary": true
             },
             {
                 "label": "Sign Up",
